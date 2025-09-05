@@ -6,3 +6,7 @@ console.log(login);
 
 const footer="Footer added to our website"
 console.log(footer)
+//PAYMENT BRANCH
+const payment ="Intergrated the payment gateway"
+console.log(payment);
+
