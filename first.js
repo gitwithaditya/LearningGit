@@ -14,3 +14,7 @@ const upi="Intergrated the UPI gateway";
 console.log(upi);
 
 console.log("Latest Update");
+
+
+//Fixing some bug.
+console.log("BUX FIXED");
