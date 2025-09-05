@@ -8,5 +8,7 @@ const footer="Footer added to our website"
 console.log(footer)
 //PAYMENT BRANCH
 const payment ="Intergrated the payment gateway"
-console.log(payment);
+console.log(payment)
 
+const upi="Intergrated the UPI gateway";
+console.log(upi);
